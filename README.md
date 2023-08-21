@@ -28,12 +28,12 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming (Step 4)
-Favorite apps:
-Youtube - picture-in-picture, live captioning /n
-Discord - Can edit sent messages, @mentions
-Spotify - AI dj, personalized playlists, driving mode detection
+Favorite apps
+- Youtube: picture-in-picture, live captioning 
+- Discord: Can edit sent messages, @mentions
+- Spotify: AI dj, personalized playlists, driving mode detection
 
-An app idea:
+An app idea
 I think an interior design app with an AI assistant that can help you with your design idea would be cool. The app would allow the users to scan their space and add inspiration pictures for their desired style. Furnitures and decors that complement the user's style would then be recomemmended along with a link of where they can purchase. Moreover, they would receive suggestion for layouts which they can customize until satisfied.
 
 ## Notes
