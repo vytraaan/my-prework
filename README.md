@@ -34,7 +34,7 @@ Favorite apps
 - Spotify: AI dj, personalized playlists, driving mode detection
 
 An app idea
-I think an interior design app with an AI assistant that can help you with your design idea would be cool. The app would allow the users to scan their space and add inspiration pictures for their desired style. Furnitures and decors that complement the user's style would then be recomemmended along with a link of where they can purchase. Moreover, they would receive suggestion for layouts which they can customize until satisfied.
+- I think an interior design app with an AI assistant that can help you with your design idea would be cool. The app would allow the users to scan their space and add inspiration pictures for their desired style. Furnitures and decors that complement the user's style would then be recomemmended along with a link of where they can purchase. Moreover, they would receive suggestion for layouts which they can customize until satisfied.
 
 ## Notes
 
