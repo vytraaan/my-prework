@@ -29,7 +29,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming (Step 4)
 Favorite apps:
-Youtube - picture-in-picture, live captioning
+Youtube - picture-in-picture, live captioning /n
 Discord - Can edit sent messages, @mentions
 Spotify - AI dj, personalized playlists, driving mode detection
 
