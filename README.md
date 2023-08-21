@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
 
 ## Extra Features
-The following **exta** functionality is completed:
+The following **extra** functionality is completed:
 - [x] A button that change text color
 - [x] Users can adjust three labels text font size with slider
  
